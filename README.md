@@ -20,4 +20,6 @@
 <img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/0e6914f8-bebf-450f-a9a8-fcdd82c55bd1" />
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/2f6003f0-e8c2-49b0-87e7-c7e3a7ea4fa7" />
 
+## 로그인/회원가입 페이지
+- 사용자가 로그인 및 회원가입을 할 수 있는 페이지 입니다. JavaScript를 활용하여 로그인/회원가입 기능 구현.
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/07d6eea3-acfe-4741-853e-46f6eeb7953d" />
