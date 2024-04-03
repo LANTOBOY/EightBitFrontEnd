@@ -16,7 +16,8 @@
 </div>
 
 ## 메인페이지
-- 사용자 처음 보게 될 메인페이지 입니다. Swiper 라이브러리로 슬라이드를 구현하여 사용자가 편히 볼 수 있도록 개발 하였습니다.
+- 사용자 처음 보게 될 메인페이지 입니다. Swiper 라이브러리로 슬라이드를 구현하여 사용자가 편히 볼 수 있도록 개발.
 <img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/0e6914f8-bebf-450f-a9a8-fcdd82c55bd1" />
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/2f6003f0-e8c2-49b0-87e7-c7e3a7ea4fa7" />
 
+<img width="100%" "https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/07d6eea3-acfe-4741-853e-46f6eeb7953d" />
