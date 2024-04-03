@@ -13,4 +13,4 @@
 
 
 
-<img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/0e6914f8-bebf-450f-a9a8-fcdd82c55bd1" />
+<img style="margin-top: 40px;" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/0e6914f8-bebf-450f-a9a8-fcdd82c55bd1" />
