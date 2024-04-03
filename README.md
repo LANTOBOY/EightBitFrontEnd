@@ -8,5 +8,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
+#
+
 
 <img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/0e6914f8-bebf-450f-a9a8-fcdd82c55bd1" />
