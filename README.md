@@ -20,4 +20,4 @@
 <img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/0e6914f8-bebf-450f-a9a8-fcdd82c55bd1" />
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/2f6003f0-e8c2-49b0-87e7-c7e3a7ea4fa7" />
 
-<img width="100%" "https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/07d6eea3-acfe-4741-853e-46f6eeb7953d" />
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/07d6eea3-acfe-4741-853e-46f6eeb7953d" />
