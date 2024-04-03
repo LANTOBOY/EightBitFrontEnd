@@ -17,3 +17,4 @@
 
 ## 메인페이지
 <img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/0e6914f8-bebf-450f-a9a8-fcdd82c55bd1" />
+<img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/2f6003f0-e8c2-49b0-87e7-c7e3a7ea4fa7" />
