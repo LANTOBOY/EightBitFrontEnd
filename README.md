@@ -35,8 +35,36 @@
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/5f31490c-8c9c-43b7-9939-27c634484619" />
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/31ed8ce5-7bd7-4a5b-a215-2a4fadf4101f" />
 
+## 인디게임,굿즈샵,쿠폰샵 VIEW 페이지
+- 상품이나 게임을 클릭하면 상세정보를 보여주고 다운로드/구매가 가능한 페이지 입니다. CSS3를 활용 하여 구현.
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/366213a1-aefb-475b-9c33-80195fd1295d" />
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/0041c5c2-026e-4fcd-bfca-35ef053cff6f" />
+
 ## 게시판/글쓰기 페이지
-- 사용자가 각종 자유/공식/공략 등등 유저들이 올리 게시글 리스트를 볼 수 있고 작성 할 수 있는 페이지 입니다. JavaScript,CSS3를 활용하여 대댓글,좋아요 기능 구현.
+- 사용자가 각종 자유/공식/공략 등등 유저들이 올리 게시글 리스트를 볼 수 있고 작성 할 수 있는 페이지 입니다. JavaScript,CSS3를 활용하여 대댓글,좋아요,파일첨부 기능 구현.
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/80dfe4a7-cf23-44c6-9b54-27b38ce9d0c4" />
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/e7af6669-3d2c-4133-b535-1cd7e5f2107e" />
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/47f0934b-0fc3-4f0c-899f-4106aba6709a" />
+
+## 게임 개발자 업로드 페이지
+- 게임을 개발하고 업로드 할 수 있는 페이지 입니다. JavaScript,CSS3를 활용하여 이미지/파일 업로드 기능 구현.
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/c8f249f3-1f3c-4831-b7ca-6d3c2edde494" />
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/47f0934b-0fc3-4f0c-899f-4106aba6709a" />
+
+## 모바일/테블릿 반응형, 모달창 구현
+- 사용자가 테블릿및 모바일로 접속을 하면 사이트가 깨지는 것을 막기 위해 반응형으로 구현하고 딱딱한 Alert 보다는 부드러운 모달창으로 구현.
+
+## 모바일
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/8d5ac940-cf3e-49ed-8dbb-629dd0e07d3b" />
+
+## 테블릿
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/13f33cef-56d3-42c5-9ed5-487e0a660f72" />
+
+## 모달창
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/d3e46c0c-16b5-49a1-9099-913a5a92c246" />
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/4d883fa4-b427-4b9d-a92b-0ee20bfeeb36" />
+
+
+
+
+
