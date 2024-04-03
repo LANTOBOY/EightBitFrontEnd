@@ -27,6 +27,7 @@
 ## 공식게임 페이지
 - 8bit를 대표하는 공식게임를 소개 해주는 페이지 입니다. CSS3를 활용 하여 마우스 호버 시 게임이 밝아지면서 3D처럼 튀어나오도록 구현.
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/1aba1b1d-26d6-4369-9d82-a17676fcac61" />
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/785d3bb2-47cc-4736-b7da-f710f4b114cf" />
 
 ## 인디게임,굿즈샵,쿠폰샵 페이지
 - 사용자가 보다 편리하게 인디게임,굿즈,쿠폰을 볼 수 있는 페이지 입니다. JavaScript를 활용하여 검색/필터 기능을 구현.
