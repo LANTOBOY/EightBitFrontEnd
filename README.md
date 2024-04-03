@@ -35,7 +35,8 @@
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/5f31490c-8c9c-43b7-9939-27c634484619" />
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/31ed8ce5-7bd7-4a5b-a215-2a4fadf4101f" />
 
-## 게시판 페이지
-- 사용자가 각종 자유/공식/공략 등등 유저들이 올리 게시글 리스트를 볼 수 있는 페이지 입니다. JavaScript,CSS3를 활용하여 대댓글,좋아요 기능 구현.
+## 게시판/글쓰기 페이지
+- 사용자가 각종 자유/공식/공략 등등 유저들이 올리 게시글 리스트를 볼 수 있고 작성 할 수 있는 페이지 입니다. JavaScript,CSS3를 활용하여 대댓글,좋아요 기능 구현.
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/80dfe4a7-cf23-44c6-9b54-27b38ce9d0c4" />
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/e7af6669-3d2c-4133-b535-1cd7e5f2107e" />
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/47f0934b-0fc3-4f0c-899f-4106aba6709a" />
