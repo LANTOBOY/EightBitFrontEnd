@@ -55,14 +55,14 @@
 - 사용자가 테블릿및 모바일로 접속을 하면 사이트가 깨지는 것을 막기 위해 반응형으로 구현하고 딱딱한 Alert 보다는 부드러운 모달창으로 구현.
 
 ## 모바일
-<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/8d5ac940-cf3e-49ed-8dbb-629dd0e07d3b" />
+<img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/8d5ac940-cf3e-49ed-8dbb-629dd0e07d3b" />
 
 ## 테블릿
-<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/13f33cef-56d3-42c5-9ed5-487e0a660f72" />
+<img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/13f33cef-56d3-42c5-9ed5-487e0a660f72" />
 
 ## 모달창
-<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/d3e46c0c-16b5-49a1-9099-913a5a92c246" />
-<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/4d883fa4-b427-4b9d-a92b-0ee20bfeeb36" />
+<img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/d3e46c0c-16b5-49a1-9099-913a5a92c246" />
+<img src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/4d883fa4-b427-4b9d-a92b-0ee20bfeeb36" />
 
 
 
