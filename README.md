@@ -48,8 +48,8 @@
 
 ## 게임 개발자 업로드 페이지
 - 게임을 개발하고 업로드 할 수 있는 페이지 입니다. JavaScript,CSS3를 활용하여 이미지/파일 업로드 기능 구현.
+<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/701c0f48-84c5-4abb-8741-8063c236afdd" />
 <img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/c8f249f3-1f3c-4831-b7ca-6d3c2edde494" />
-<img width="100%" src="https://github.com/LANTOBOY/EightBitFrontend/assets/114972796/47f0934b-0fc3-4f0c-899f-4106aba6709a" />
 
 ## 모바일/테블릿 반응형, 모달창 구현
 - 사용자가 테블릿및 모바일로 접속을 하면 사이트가 깨지는 것을 막기 위해 반응형으로 구현하고 딱딱한 Alert 보다는 부드러운 모달창으로 구현.
